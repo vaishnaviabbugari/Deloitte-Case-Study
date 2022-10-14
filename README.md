@@ -12,5 +12,7 @@ Deduplication and removal of redundancies – whether the individual is able to 
 redundancies and erroneous results
 
 I have created some meaningful reports, made a dashboard according to the given data and showcased insights using tableau 
+
 you can check it out through below link.
+
 TABLEAU LINK: https://public.tableau.com/app/profile/vaishnavi3798/viz/DeloitteCaseStudy_16656394847970/Dashboard1#1
